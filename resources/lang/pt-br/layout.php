@@ -116,7 +116,6 @@ return [
 
             'messages' => 'Mensagens',
             'settings' => 'Configurações',
-            'logout' => 'Finalizar sessão',
             'help' => 'Ajuda',
             'beatmapset_activities' => 'atividades de mapa de usuário',
         ],
@@ -253,7 +252,6 @@ return [
         'links' => [
             'account-edit' => 'Configurações',
             'friends' => 'Amigos',
-            'logout' => 'Finalizar sessão',
             'profile' => 'Perfil',
         ],
     ],
