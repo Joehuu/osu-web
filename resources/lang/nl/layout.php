@@ -88,7 +88,6 @@ return [
 
             'messages' => 'Berichten',
             'settings' => 'Instellingen',
-            'logout' => 'Uitloggen',
             'help' => 'Help',
         ],
         'store' => [
