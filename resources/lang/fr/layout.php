@@ -111,7 +111,6 @@ return [
 
             'messages' => 'Messages',
             'settings' => 'Paramètres',
-            'logout' => 'Se déconnecter',
             'help' => 'Aide',
         ],
         'store' => [
@@ -245,7 +244,6 @@ return [
         'links' => [
             'account-edit' => 'Paramètres',
             'friends' => 'Amis',
-            'logout' => 'Se déconnecter',
             'profile' => 'Mon profil',
         ],
     ],
