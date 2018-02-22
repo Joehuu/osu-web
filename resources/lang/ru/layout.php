@@ -110,7 +110,6 @@ return [
 
             'messages' => 'Сообщения',
             'settings' => 'Настройки',
-            'logout' => 'Выход',
             'help' => 'Помощь',
         ],
         'store' => [
@@ -244,7 +243,6 @@ return [
         'links' => [
             'account-edit' => 'Настройки',
             'friends' => 'Друзья',
-            'logout' => 'Выйти',
             'profile' => 'Мой профиль',
         ],
     ],
