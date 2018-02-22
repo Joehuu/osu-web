@@ -113,7 +113,6 @@ return [
 
             'messages' => 'Meddelanden',
             'settings' => 'Inställningar',
-            'logout' => 'Logga Ut',
             'help' => 'Hjälp',
         ],
         'store' => [
@@ -248,7 +247,6 @@ return [
         'links' => [
             'account-edit' => 'Inställningar',
             'friends' => 'Vänner',
-            'logout' => 'Logga Ut',
             'profile' => 'Min Profil',
         ],
     ],
