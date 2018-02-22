@@ -95,7 +95,6 @@ return [
 
             'messages' => 'Messaggi',
             'settings' => 'Impostazioni',
-            'logout' => 'Disconnettiti',
             'help' => 'Aiuto',
         ],
         'store' => [
@@ -227,7 +226,6 @@ return [
     'popup_user' => [
         'links' => [
             'profile' => 'Mio Profilo',
-            'logout' => 'Disconnettiti',
         ],
     ],
 ];
