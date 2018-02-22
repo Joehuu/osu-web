@@ -113,7 +113,6 @@ return [
 
             'messages' => 'Beskeder',
             'settings' => 'Indstillinger',
-            'logout' => 'Log Ud',
             'help' => 'Hjælp',
         ],
         'store' => [
@@ -248,7 +247,6 @@ return [
         'links' => [
             'account-edit' => 'Indstillinger',
             'friends' => 'Venner',
-            'logout' => 'Log ud',
             'profile' => 'Min Profil',
         ],
     ],
