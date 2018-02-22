@@ -387,16 +387,16 @@ class Beatmapset extends Model implements AfterCommit
         $sort = explode('_', array_pull($params, 'sort'));
 
         $validSortFields = [
-            'title' => 'title',
             'artist' => 'artist',
             'creator' => 'creator',
             'difficulty' => 'difficulties.difficultyrating',
-            'updated' => 'last_update',
+            'nominations' => 'nominations',
+            'plays' => 'play_count',
             'ranked' => 'approved_date',
             'rating' => 'rating',
-            'plays' => 'play_count',
-            'nominations' => 'nominations',
+            'title' => 'title',
             'relevance' => '_score',
+            'updated' => 'last_update',
         ];
         $params['sort_field'] = $validSortFields[$sort[0] ?? null] ?? null;
 
