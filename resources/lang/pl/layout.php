@@ -112,7 +112,6 @@ return [
 
             'messages' => 'Wiadomości',
             'settings' => 'Ustawienia',
-            'logout' => 'Wyloguj się',
             'help' => 'Pomoc',
         ],
         'store' => [
@@ -245,7 +244,6 @@ return [
         'links' => [
             'account-edit' => 'Ustawienia',
             'friends' => 'Znajomi',
-            'logout' => 'Wyloguj się',
             'profile' => 'Mój profil',
         ],
     ],
