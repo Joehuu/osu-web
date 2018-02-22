@@ -113,7 +113,6 @@ return [
 
             'messages' => '메세지',
             'settings' => '설정',
-            'logout' => '로그아웃',
             'help' => '도움말',
         ],
         'store' => [
@@ -247,7 +246,6 @@ return [
         'links' => [
             'account-edit' => '설정',
             'friends' => '친구',
-            'logout' => '로그아웃',
             'profile' => '내 프로필',
         ],
     ],
