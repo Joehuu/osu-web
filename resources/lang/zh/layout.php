@@ -116,7 +116,6 @@ return [
 
             'messages' => '信息',
             'settings' => '设置',
-            'logout' => '退出',
             'help' => '帮助',
             'beatmapset_activities' => '玩家谱面活动', //需要上下文
         ],
@@ -253,7 +252,6 @@ return [
         'links' => [
             'account-edit' => '设置',
             'friends' => '好友',
-            'logout' => '退出',
             'profile' => '我的资料',
         ],
     ],
