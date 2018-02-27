@@ -24,7 +24,7 @@ return [
         'title_compact' => '设置',
 
         'avatar' => [
-            'title' => '编辑头像',
+            'title' => '编辑头像', // "Edit" has been removed from base text, please check.
         ],
 
         'email' => [
@@ -42,7 +42,7 @@ return [
         ],
 
         'profile' => [
-            'title' => '编辑个人资料',
+            'title' => '编辑个人资料', // "Edit" has been removed from base text, please check.
 
             'user' => [
                 'user_from' => '当前位置',
