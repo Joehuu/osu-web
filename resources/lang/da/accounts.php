@@ -24,7 +24,7 @@ return [
         'title_compact' => 'indstillinger',
 
         'avatar' => [
-            'title' => 'Ændr Avatar',
+            'title' => 'Ændr Avatar', // "Edit" has been removed from base text, please check.
         ],
 
         'email' => [
@@ -42,10 +42,11 @@ return [
         ],
 
         'profile' => [
-            'title' => 'Ændr Profil',
+            'title' => 'Ændr Profil', // "Edit" has been removed from base text, please check.
 
             'user' => [
                 'user_from' => 'nuværende placering',
+                'user_interests' => 'interests', // Please translate.
                 'user_msnm' => 'skype',
                 'user_occ' => 'stilling',
                 'user_twitter' => 'twitter',
