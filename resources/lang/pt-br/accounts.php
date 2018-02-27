@@ -24,7 +24,7 @@ return [
         'title_compact' => 'configurações',
 
         'avatar' => [
-            'title' => 'Editar avatar',
+            'title' => 'Editar avatar', // "Edit" has been removed from base text, please check.
         ],
 
         'email' => [
@@ -42,10 +42,11 @@ return [
         ],
 
         'profile' => [
-            'title' => 'Editar perfil',
+            'title' => 'Editar perfil', // "Edit" has been removed from base text, please check.
 
             'user' => [
                 'user_from' => 'localização atual',
+                'user_interests' => 'interests', // Please translate.
                 'user_msnm' => 'skype',
                 'user_occ' => 'ocupação',
                 'user_twitter' => 'twitter',
