@@ -24,7 +24,7 @@ return [
         'title_compact' => 'настройки',
 
         'avatar' => [
-            'title' => 'Аватар',
+            'title' => 'Аватар', // "Edit" has been removed from base text, please check.
         ],
 
         'email' => [
@@ -42,10 +42,11 @@ return [
         ],
 
         'profile' => [
-            'title' => 'Дополнительная информация',
+            'title' => 'Дополнительная информация', // "Edit" has been removed from base text, please check.
 
             'user' => [
                 'user_from' => 'проживание',
+                'user_interests' => 'interests', // Please translate.
                 'user_msnm' => 'скайп',
                 'user_occ' => 'профессия',
                 'user_twitter' => 'твиттер',
