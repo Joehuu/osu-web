@@ -174,8 +174,8 @@ return [
         'load-more' => 'Load more...',
     ],
     'general' => [
-        'recommended' => 'Recommended Dfficulty',
-        'converts' => 'Converted Beatmaps',
+        'recommended' => 'Recommended dfficulty',
+        'converts' => 'Include converted beatmaps',
     ],
     'mode' => [
         'any' => 'Any',
@@ -214,7 +214,7 @@ return [
         'HR' => 'Hard Rock',
         'SD' => 'Sudden Death',
         'DT' => 'Double Time',
-        'RX' => 'Relax',
+        'Relax' => 'Relax',
         'HT' => 'Half Time',
         'NC' => 'Nightcore',
         'FL' => 'Flashlight',
@@ -226,9 +226,9 @@ return [
         '6K' => '6K',
         '7K' => '7K',
         '8K' => '8K',
-        '9K' => '9K',
         'FI' => 'Fade In',
-        'NM' => 'No Mods',
+        '9K' => '9K',
+        'NM' => 'No mods',
     ],
     'language' => [
         'any' => 'Any',
@@ -245,8 +245,8 @@ return [
         'other' => 'Other',
     ],
     'extra' => [
-        'video' => 'Video',
-        'storyboard' => 'Storyboard',
+        'video' => 'Has Video',
+        'storyboard' => 'Has Storyboard',
     ],
     'rank' => [
         'any' => 'Any',
