@@ -160,10 +160,10 @@ return [
             'filters' => [
                 'general' => 'General',
                 'mode' => 'Mode',
-                'status' => 'Status',
+                'status' => 'Rank Status',
                 'genre' => 'Genre',
                 'language' => 'Language',
-                'extra' => 'Extra',
+                'extra' => 'extra',
                 'rank' => 'Rank Achieved',
             ],
         ],
@@ -174,7 +174,7 @@ return [
         'load-more' => 'Load more...',
     ],
     'general' => [
-        'recommended' => 'Recommended dfficulty',
+        'recommended' => 'Recommended difficulty',
         'converts' => 'Include converted beatmaps',
     ],
     'mode' => [
