@@ -34,7 +34,7 @@ return [
 
     'reply' => [
         'open' => [
-            'guest' => '답글을 달려면 로그인하세요',// Base text changed from "log" to "sign"
+            'guest' => '답글을 달려면 로그인하세요', // Base text changed from "log" to "sign"
             'user' => '답글달기', // Respond
         ],
     ],
