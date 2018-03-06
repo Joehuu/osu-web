@@ -101,7 +101,7 @@ return [
         ],
         'user' => [
             '_' => 'bruger',
-            'getLogin' => 'log ind',
+            'getLogin' => 'log ind', // Base text changed from "log" to "sign"
             'disabled' => 'deaktiveret',
 
             'register' => 'registrer',
@@ -182,7 +182,7 @@ return [
     'errors' => [
         '404' => [
             'error' => 'Siden findes ikke',
-            'description' => 'Beklager, men siden, du forsøger at finde, eksisterer ikke!',
+            'description' => 'Beklager, men siden, du forsøger at finde, eksisterer ikke!', // Base text changed from "log" to "sign"
             'link' => false,
         ],
         '403' => [
