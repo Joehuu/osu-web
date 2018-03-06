@@ -182,7 +182,7 @@ return [
     'errors' => [
         '404' => [
             'error' => 'Siden findes ikke',
-            'description' => 'Beklager, men siden, du forsøger at finde, eksisterer ikke!', // Base text changed from "log" to "sign"
+            'description' => 'Beklager, men siden, du forsøger at finde, eksisterer ikke!',
             'link' => false,
         ],
         '403' => [
@@ -192,7 +192,7 @@ return [
         ],
         '401' => [
             'error' => 'Du burde ikke være her.',
-            'description' => 'Du kunne prøve at gå tilbage igen, okay? Eller bare logge ind måske.',
+            'description' => 'Du kunne prøve at gå tilbage igen, okay? Eller bare logge ind måske.', // Base text changed from "log" to "sign"
             'link' => false,
         ],
         '405' => [
