@@ -1,6 +1,6 @@
 ## MultiplayerScores
 
-An object which contains scores and related data for fetching next page of the result.
+An object which contains scores and related data for fetching the next page of the result.
 
 Field        | Type                      | Description
 -------------|---------------------------|--------------------------------------------------------------

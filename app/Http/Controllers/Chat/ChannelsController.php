@@ -119,7 +119,7 @@ class ChannelsController extends Controller
     /**
      * Create Channel
      *
-     * This endpoint creates a new channel if doesn't exist and joins it.
+     * This endpoint creates a new channel if it doesn't exist and joins it.
      * Currently only for rejoining existing PM channels which the user has left.
      *
      * ---
@@ -182,7 +182,7 @@ class ChannelsController extends Controller
     /**
      * Mark Channel as Read
      *
-     * This endpoint marks the channel as having being read up to the given `message_id`.
+     * This endpoint marks the channel as having been read up to the given `message_id`.
      *
      * ---
      *

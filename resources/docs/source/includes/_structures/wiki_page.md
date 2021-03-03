@@ -17,7 +17,7 @@ Represents a wiki article
 Field    | Type     | Description
 -------- | -------- | ----------------------------------------------------------
 layout   | string   | The layout type for the page.
-locale   | string   | All lowercase BCP 47 language tag.
+locale   | string   | All lowercase BCP 47 language tags.
 markdown | string   | Markdown content.
 path     | string   | Path of the article.
 subtitle | string?  | The article's subtitle.

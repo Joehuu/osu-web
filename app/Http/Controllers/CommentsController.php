@@ -57,7 +57,7 @@ class CommentsController extends Controller
     /**
      * Get Comments
      *
-     * Returns a list comments and their replies up to 2 levels deep.
+     * Returns a list of comments and their replies up to 2 levels deep.
      *
      * ---
      *
@@ -69,8 +69,8 @@ class CommentsController extends Controller
      *
      * @queryParam commentable_type The type of resource to get comments for.
      * @queryParam commentable_id The id of the resource to get comments for.
-     * @queryParam cursor Pagination option. See [CommentSort](#commentsort) for detail. The format follows [Cursor](#cursor) except it's not currently included in the response.
-     * @queryParam parent_id Limit to comments which are reply to the specified id. Specify 0 to get top level comments.
+     * @queryParam cursor Pagination option. See [CommentSort](#commentsort) for details. The format follows [Cursor](#cursor) except it's not currently included in the response.
+     * @queryParam parent_id Limit to comments which are replied to the specified id. Specify 0 to get top level comments.
      * @queryParam sort Sort option as defined in [CommentSort](#commentsort). Defaults to `new` for guests and user-specified default when authenticated.
      */
     public function index()

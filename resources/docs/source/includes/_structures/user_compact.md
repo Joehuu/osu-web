@@ -26,7 +26,7 @@ is_active       | boolean                   | has this account been active in th
 is_bot          | boolean                   | is this a bot account?
 is_deleted      | boolean                   ||
 is_online       | boolean                   | is the user currently online? (either on lazer or the new website)
-is_supporter    | boolean                   | does this user have supporter?
+is_supporter    | boolean                   | does this user have osu!supporter?
 last_visit      | [Timestamp](#timestamp)?  | last access time. `null` if the user hides online presence
 pm_friends_only | boolean                   | whether or not the user allows PM from other than friends
 profile_colour  | string                    | colour of username/profile highlight, hex code (e.g. `#333333`)

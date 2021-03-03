@@ -26,7 +26,7 @@ class BeatmapsController extends Controller
      *
      * ### Response format
      *
-     * Returns [Beatmap](#beatmap) object.
+     * Returns a [Beatmap](#beatmap) object.
      * Following attributes are included in the response object when applicable,
      *
      * Attribute                            | Notes

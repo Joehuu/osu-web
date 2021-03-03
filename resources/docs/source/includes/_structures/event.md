@@ -44,7 +44,7 @@ previousUsername | string? | Only for `usernameChange` event.
 
 #### achievement
 
-When user obtained an achievement.
+When a user obtains an achievement.
 
 Field       | Type
 ------------|------------
@@ -53,7 +53,7 @@ user        | [Event.User](#event-user)
 
 #### beatmapPlaycount
 
-When a beatmap has been played for certain number of times.
+When a beatmap has been played for a certain number of times.
 
 Field       | Type
 ------------|------------

@@ -1,6 +1,6 @@
 ## MultiplayerScoresCursor
 
-An object which contains pointer for fetching further results of a request. It depends on the sort option.
+An object which contains a pointer for fetching further results of a request. It depends on the sort option.
 
 Field         | Type     | Description
 --------------|----------|---------------------------------------------------------------------------

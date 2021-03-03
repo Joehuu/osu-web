@@ -97,7 +97,7 @@ included_comments | [Comment](#comment)[]                 | Related comments; e.
 pinned_comments   | [Comment](#comment)[]?                | Pinned comments
 sort              | string                                | one of the [CommentSort](#commentsort) types
 top_level_count   | number?                               | Number of comments at the top level. Not returned for replies.
-total             | number?                               | Total number of comments. Not retuned for replies.
+total             | number?                               | Total number of comments. Not returned for replies.
 user_follow       | boolean                               | is the current user watching the comment thread?
 user_votes        | number[]                              | IDs of the comments in the bundle the current user has upvoted
 users             | [UserCompact](#usercompact)[]         | array of users related to the comments

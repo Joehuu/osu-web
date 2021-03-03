@@ -15,7 +15,7 @@ Optional attributes:
 
 Field       | Type                                                                     | Description
 ----------- | ------------------------------------------------------------------------ | -----------
-beatmapset  | [Beatmapset](#beatmapset)\|[BeatmapsetCompact](#beatmapsetcompact)\|null | `Beatmapset` for `Beatmap` object, `BeatmapsetCompact` for `BeatmapCompact` object. `null` if the beatmap doesn't have associated beatmapset (e.g. deleted).
+beatmapset  | [Beatmapset](#beatmapset)\|[BeatmapsetCompact](#beatmapsetcompact)\|null | `Beatmapset` for `Beatmap` object, `BeatmapsetCompact` for `BeatmapCompact` object. `null` if the beatmap doesn't have an associated beatmapset (e.g. deleted).
 checksum    | string?                                                                  | |
 failtimes   | [Failtimes](#beatmapcompact-failtimes)                                   | |
 max_combo   | integer                                                                  | |

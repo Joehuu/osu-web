@@ -39,12 +39,12 @@ users*           | number[]?            | array of `user_id` that are in the cha
 Type        | Permission Check for Joining/Messaging
 ----------- | -----------------------------------------------------
 PUBLIC      | |
-PRIVATE     | is player in the allowed groups? (channel.allowed_groups)
-MULTIPLAYER | is player currently in the mp game?
+PRIVATE     | is the player in the allowed groups? (channel.allowed_groups)
+MULTIPLAYER | is the player currently in the mp game?
 SPECTATOR   | |
 TEMPORARY   | _deprecated_
 PM          | see below (user_channels)
-GROUP       | is player in channel? (user_channels)
+GROUP       | is the player in the channel? (user_channels)
 
 For PMs, two factors are taken into account:
 

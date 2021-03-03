@@ -172,7 +172,7 @@ class UsersController extends Controller
     /**
      * Get User Beatmaps
      *
-     * Returns the beatmaps of specified user.
+     * Returns the beatmaps of the specified user.
      *
      * | Type                |
      * |---------------------|
@@ -360,7 +360,7 @@ class UsersController extends Controller
     /**
      * Get User Scores
      *
-     * This endpoint returns the scores of specified user.
+     * This endpoint returns the scores of the specified user.
      *
      * ---
      *
@@ -445,7 +445,7 @@ class UsersController extends Controller
     /**
      * Get User
      *
-     * This endpoint returns the detail of specified user.
+     * This endpoint returns the details of the specified user.
      *
      * ---
      *
