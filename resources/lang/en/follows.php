@@ -25,11 +25,11 @@ return [
 
     'mapping' => [
         'empty' => 'No mappers watched.',
-        'followers' => 'mapping subscribers',
+        'followers' => 'Mapping subscribers',
         'page_title' => 'mapper watchlist',
         'title' => 'mapper',
-        'to_0' => 'stop notifying me when this user uploads a new beatmap',
-        'to_1' => 'notify me when this user uploads a new beatmap',
+        'to_0' => 'Stop notifying me when this user uploads a new beatmap',
+        'to_1' => 'Notify me when this user uploads a new beatmap',
     ],
 
     'modding' => [

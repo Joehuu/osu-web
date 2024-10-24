@@ -36,7 +36,7 @@ return [
             'all' => 'download',
             'video' => 'download with video',
             'no_video' => 'download without video',
-            'direct' => 'open in osu!direct',
+            'direct' => 'Open in osu!direct',
         ],
     ],
 
@@ -78,12 +78,12 @@ return [
 
         'details' => [
             'by_artist' => 'by :artist',
-            'favourite' => 'favourite this beatmap',
-            'favourite_login' => 'sign in to favourite this beatmap',
-            'logged-out' => 'you need to sign in before downloading any beatmaps!',
+            'favourite' => 'Favourite this beatmap',
+            'favourite_login' => 'Sign in to favourite this beatmap',
+            'logged-out' => 'You need to sign in before downloading any beatmaps!',
             'mapped_by' => 'mapped by :mapper',
             'mapped_by_guest' => 'guest difficulty by :mapper',
-            'unfavourite' => 'unfavourite this beatmap',
+            'unfavourite' => 'Unfavourite this beatmap',
             'updated_timeago' => 'last updated :timeago',
 
             'download' => [
@@ -213,8 +213,8 @@ return [
             'stars' => 'Star Rating',
             'total_length' => 'Length (Drain length: :hit_length)',
             'bpm' => 'BPM',
-            'count_circles' => 'Circle Count',
-            'count_sliders' => 'Slider Count',
+            'count_circles' => 'Circle count',
+            'count_sliders' => 'Slider count',
             'offset' => 'Online offset: :offset',
             'user-rating' => 'User Rating',
             'rating-spread' => 'Rating Spread',

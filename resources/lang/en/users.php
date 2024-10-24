@@ -215,7 +215,7 @@ return [
         ],
         'edit' => [
             'cover' => [
-                'button' => 'Change Profile Cover',
+                'button' => 'Change profile cover',
                 'defaults_info' => 'More cover options will be available in the future',
                 'holdover_remove_confirm' => "The previously selected cover is not available for selection anymore. You can't select it back after switching to a different cover. Proceed?",
                 'title' => 'Cover',
@@ -237,7 +237,7 @@ return [
             ],
 
             'default_playmode' => [
-                'is_default_tooltip' => 'default game mode',
+                'is_default_tooltip' => 'Default game mode',
                 'set' => 'set :mode as profile default game mode',
             ],
 
@@ -305,7 +305,7 @@ return [
                     'count_label' => 'Plays',
                 ],
                 'most_played' => [
-                    'count' => 'times played',
+                    'count' => 'Times played',
                     'title' => 'Most Played Beatmaps',
                 ],
                 'recent_plays' => [
@@ -445,7 +445,7 @@ return [
         'info' => [
             'discord' => 'Discord',
             'interests' => 'Interests',
-            'location' => 'Current Location',
+            'location' => 'Current location',
             'occupation' => 'Occupation',
             'twitter' => 'Twitter',
             'website' => 'Website',
@@ -458,7 +458,7 @@ return [
             'title' => 'User not found! ;_;',
         ],
         'page' => [
-            'button' => 'edit profile page',
+            'button' => 'Edit profile page',
             'description' => '<strong>me!</strong> is a personal customisable area in your profile page.',
             'edit_big' => 'Edit me!',
             'placeholder' => 'Type page content here',
@@ -482,7 +482,7 @@ return [
         'stats' => [
             'hit_accuracy' => 'Hit Accuracy',
             'level' => 'Level :level',
-            'level_progress' => 'progress to next level',
+            'level_progress' => 'Progress to next level',
             'maximum_combo' => 'Maximum Combo',
             'medals' => 'Medals',
             'play_count' => 'Play Count',

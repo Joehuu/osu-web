@@ -13,7 +13,7 @@ return [
         ],
 
         'item' => [
-            'registered' => 'registered players',
+            'registered' => 'Registered players',
         ],
 
         'state' => [

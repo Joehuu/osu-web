@@ -77,7 +77,7 @@ return [
             'get_download' => 'download',
             'index' => 'dashboard',
             'search' => 'search',
-            'support_the_game' => 'support the game',
+            'support_the_game' => 'Support the game',
             'testflight' => 'testflight',
         ],
         'legal_controller' => [

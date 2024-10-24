@@ -8,8 +8,8 @@ return [
     'too_many' => 'Friend limit reached',
 
     'buttons' => [
-        'add' => 'add friend',
-        'disabled' => 'followers',
-        'remove' => 'remove friend',
+        'add' => 'Add friend',
+        'disabled' => 'Followers',
+        'remove' => 'Remove friend',
     ],
 ];

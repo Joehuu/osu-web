@@ -110,7 +110,7 @@ return [
         'beatmapset_download' => [
             '_' => 'default beatmap download type',
             'all' => 'with video if available',
-            'direct' => 'open in osu!direct',
+            'direct' => 'Open in osu!direct',
             'no_video' => 'without video',
         ],
     ],
